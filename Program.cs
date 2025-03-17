@@ -1,25 +1,16 @@
 ﻿using System;
+using Classes; 
 
-namespace OnlineShoppingSystem
+class Program
 {
-    // Base Class: Product
-    class Product
+    static void Main()
     {
-        public string Name { get; set; }
-        public double Price { get; set; }
-        public int StockQuantity { get; set; }
+        // Creating a Product object
+        Product MacBook = new Product("MacBook", 3000.00, 10);
+        MacBook.DisplayProductInfo(); 
 
-        public Product(string name, double price, int stockQuantity)
-        {
-            Name = name;
-            Price = price;
-            StockQuantity = stockQuantity;
-        }
-
-        public virtual void DisplayInfo()
-        {
-            Console.WriteLine($"Name: {Name}, Price: ${Price}, Stock: {StockQuantity}");
-        }
+        // Creating an Electronic object (Fix: use double quotes)
+        Electronic MacPro = new Electronic("MacPro", 5000.00, 10, 3);
+        MacPro.DisplayElectronicInfo();
     }
 }
-

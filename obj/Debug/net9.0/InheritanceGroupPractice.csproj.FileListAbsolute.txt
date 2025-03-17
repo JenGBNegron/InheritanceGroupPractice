@@ -1,0 +1,15 @@
+c:\Code\InheritanceGroupPractice\obj\Debug\net9.0\InheritanceGroupPractice.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\InheritanceGroupPractice\obj\Debug\net9.0\InheritanceGroupPractice.AssemblyInfoInputs.cache
+c:\Code\InheritanceGroupPractice\obj\Debug\net9.0\InheritanceGroupPractice.AssemblyInfo.cs
+c:\Code\InheritanceGroupPractice\obj\Debug\net9.0\InheritanceGroupPractice.csproj.CoreCompileInputs.cache
+c:\Code\InheritanceGroupPractice\obj\Debug\net9.0\InheritanceGroupPractice.sourcelink.json
+c:\Code\InheritanceGroupPractice\bin\Debug\net9.0\InheritanceGroupPractice.exe
+c:\Code\InheritanceGroupPractice\bin\Debug\net9.0\InheritanceGroupPractice.deps.json
+c:\Code\InheritanceGroupPractice\bin\Debug\net9.0\InheritanceGroupPractice.runtimeconfig.json
+c:\Code\InheritanceGroupPractice\bin\Debug\net9.0\InheritanceGroupPractice.dll
+c:\Code\InheritanceGroupPractice\bin\Debug\net9.0\InheritanceGroupPractice.pdb
+c:\Code\InheritanceGroupPractice\obj\Debug\net9.0\InheritanceGroupPractice.dll
+c:\Code\InheritanceGroupPractice\obj\Debug\net9.0\refint\InheritanceGroupPractice.dll
+c:\Code\InheritanceGroupPractice\obj\Debug\net9.0\InheritanceGroupPractice.pdb
+c:\Code\InheritanceGroupPractice\obj\Debug\net9.0\InheritanceGroupPractice.genruntimeconfig.cache
+c:\Code\InheritanceGroupPractice\obj\Debug\net9.0\ref\InheritanceGroupPractice.dll
