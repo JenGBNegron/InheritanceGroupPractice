@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Code\\InheritanceGroupPractice\\InheritanceGroupPractice.csproj": {}
+    "C:\\Code\\InheritanceGroupPractice\\InheritanceGroupPractice.csproj": {}
   },
   "projects": {
-    "c:\\Code\\InheritanceGroupPractice\\InheritanceGroupPractice.csproj": {
+    "C:\\Code\\InheritanceGroupPractice\\InheritanceGroupPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Code\\InheritanceGroupPractice\\InheritanceGroupPractice.csproj",
+        "projectUniqueName": "C:\\Code\\InheritanceGroupPractice\\InheritanceGroupPractice.csproj",
         "projectName": "InheritanceGroupPractice",
-        "projectPath": "c:\\Code\\InheritanceGroupPractice\\InheritanceGroupPractice.csproj",
+        "projectPath": "C:\\Code\\InheritanceGroupPractice\\InheritanceGroupPractice.csproj",
         "packagesPath": "C:\\Users\\baker\\.nuget\\packages\\",
-        "outputPath": "c:\\Code\\InheritanceGroupPractice\\obj\\",
+        "outputPath": "C:\\Code\\InheritanceGroupPractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
