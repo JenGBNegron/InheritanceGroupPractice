@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InheritanceGroupPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1767e246aaa943ca89aff0215d9f0e522261718e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8b792feb075122fb43883cddf1f8a064dff3bb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("InheritanceGroupPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InheritanceGroupPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,5 +12,10 @@ class Program
         // Creating an Electronic object (Fix: use double quotes)
         Electronic MacPro = new Electronic("MacPro", 5000.00, 10, 3);
         MacPro.DisplayElectronicInfo();
+
+         // Creating a clothing object 
+        Clothing tshirt = new Clothing("T-Shirt", 29.99, 50, "M");
+        tshirt.DisplayClothingInfo();
+
     }
 }
