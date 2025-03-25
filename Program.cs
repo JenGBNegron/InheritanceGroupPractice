@@ -17,5 +17,9 @@ class Program
         Clothing tshirt = new Clothing("T-Shirt", 29.99, 50, "M");
         tshirt.DisplayClothingInfo();
 
+        // Creating a furniture object
+        Furniture mySofa = new Furniture("Sofa", 499.99,10,"Leather");
+        mySoda.DisplayInfo(); 
+
     }
 }
